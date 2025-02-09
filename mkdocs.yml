@@ -1,0 +1,26 @@
+site_name: My Docs
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: yellow
+    accent: pink
+# extra:
+#   alternate:
+#     - name: Chinese
+#       link: /zh/ 
+#       lang: zh
+plugins:
+  - search:
+      prebuild_index: true
+      lang: ['zh', 'en']
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js
+
+
+nav:
+  - Home: index.md
+  - list:
+    - About: about.md
+    - Contact: contact.md 
