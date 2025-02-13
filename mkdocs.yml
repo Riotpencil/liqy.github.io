@@ -24,7 +24,7 @@ nav:
   - list:
     - About: about.md
     - Contact: contact.md 
-    - test: '/Users/liqingyu/Library/CloudStorage/OneDrive-IES/OBSS/心血管/生理&组胚/心肌细胞的电生理和生理特性、心血管活动的调节.md'
+    - test: /Users/liqingyu/Library/CloudStorage/OneDrive-IES/OBSS/心血管/生理&组胚/心肌细胞的电生理和生理特性、心血管活动的调节.md
 
 
 extra_javascript:
